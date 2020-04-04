@@ -17,6 +17,6 @@
         </li>
     </ol>
     <p>
-    Now it also contains a .css file to add styles, make the page responsive and make the page able to be displayed on differents screen sizes.
+    It also contains a .css file to add styles, make the page responsive and make the page able to be displayed on differents screen sizes.
     </p>
 </body>
